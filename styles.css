@@ -488,7 +488,7 @@ transform: rotate(360deg);
 }
 }
 
-/* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
+/* TABLETS, LARGE SMARTPHONES */
 @media (max-width: 768px) {
 .header__description {
 padding: 0 24px;
@@ -512,7 +512,7 @@ width: 50%;
 }
 
 
-/* SMALL PHONES, LARGE SMARTPHONES */
+/* SMALL PHONES */
 @media (max-width: 550px) {
 .btn__menu {
 display: block;
