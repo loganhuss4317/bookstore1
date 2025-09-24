@@ -467,7 +467,7 @@ color: #7342d6;
 }
 
 .books__loading--spinner {
-display: none !important;
+display: none;
 }
 
 .books__loading .books__loading--spinner {
